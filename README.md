@@ -1,4 +1,4 @@
-I have worked in multiple roles supporting business IT infrastructures. During my time filling these multiple roles PowerShell has been my language of choice for efficiency and effectiveness. 
+I have worked in multiple roles supporting business IT infrastructures. During my time filling these roles, PowerShell has been my language of choice for efficiency and effectiveness. 
 
 ### AdminToolbox
 The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of modules for my publicly shared functions and tools. The following modules are included.
