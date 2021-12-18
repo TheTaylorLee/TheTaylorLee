@@ -7,10 +7,9 @@
 ### AdminToolbox
 The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of PowerShell modules for my publicly shared functions and tools. The following modules are included.
 ```
-- ActiveDirectory   - EndpointManagement  - Exchange
-- FFTools           - FileManagement      - FortiWizard
-- Fun               - Networking          - Office365
-- Remoting          - VmwareAutomate
+- ActiveDirectory   - EndpointManagement  - Exchange         - FFTools 
+- FileManagement    - FortiWizard         - Fun              - Networking
+- Office365         - Remoting            - VmwareAutomate
 ```
 
 [Demo Video](https://www.youtube.com/watch?v=stIkaeUwJ4c)
