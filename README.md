@@ -5,7 +5,7 @@
 
 
 ### AdminToolbox
-The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of modules for my publicly shared functions and tools. The following modules are included.
+The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of PowerShell modules for my publicly shared functions and tools. The following modules are included.
 
 - [x] ActiveDirectory
 - [x] EndpointManagement
