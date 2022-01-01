@@ -12,7 +12,15 @@ The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a
 - Office365         - Remoting            - VmwareAutomate
 ```
 
-[Demo Video](https://www.youtube.com/watch?v=stIkaeUwJ4c)
+<p align="Left">
+<a href="https://github.com/TheTaylorLee/AdminToolbox/actions/workflows/PS_Gallery_Pipeline.yml"><img src="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/PSGallery%20Publish?label=PSGallery%20Publish&logo=Github"></a>
+<a href="https://github.com/TheTaylorLee/AdminToolbox/actions/workflows/Update_Docs.yml"><img src="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/Update%20Docs?label=Update%20Docs&logo=Github"></a>
+<a href="https://github.com/TheTaylorLee/AdminToolbox/issues?q=is%3Aopen+is%3Aissue"><img src ="https://img.shields.io/github/issues-raw/thetaylorlee/admintoolbox"></a>
+</p>
+
+<p align="Left">
+<a href="https://open.vscode.dev/TheTaylorLee/AdminToolbox"><img src="https://open.vscode.dev/badges/open-in-vscode.svg"></a>
+</p>
 
 ### PSPortable
 I have created two portable PowerShell packages in the [PSPortable](https://github.com/TheTaylorLee/PSPortable) and [PSPortableLight](https://github.com/TheTaylorLee/PSPortableLight) repositories. Those repositories present a portable PowerShell 7 package with multiple included modules. They can be downloaded using a single command and used right away. The idea behind this is you can maintain the same PowerShell environment across many servers with change tracking.
