@@ -1,8 +1,7 @@
 # TheTaylorLee
 **I have worked in multiple roles supporting business IT infrastructures. During my time filling these roles, PowerShell has been my language of choice for efficiency and effectiveness.**
 
-[![TheTaylorLee's GitHub stats](https://github-readme-stats-jwak.vercel.app/api?username=thetaylorlee&count_private=true&show_icons=true&theme=react&hide_border=true&disable_animations=false&include_all_commits=true)](https://github.com/thetaylorlee)
-
+[![TheTaylorLee's GitHub stats](https://github-readme-stats-jwak.vercel.app/api?username=thetaylorlee&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=00000000&hide_border=true&disable_animations=false&include_all_commits=true)](https://github.com/thetaylorlee)
 
 ### AdminToolbox
 The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of PowerShell modules for my publicly shared functions and tools. The following modules are included.
