@@ -17,7 +17,7 @@ The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a
 </p>
 
 ### PSPortable
-I have bundled a PowerShell packages in the [PSPortable](https://github.com/TheTaylorLee/PSPortable) repository. This presents a portable PowerShell 7 package with multiple included modules. It can be downloaded using a single command and used right away. The idea behind this is you can maintain the same PowerShell environment across many servers with change tracking.
+I have bundled PowerShell packages in the [PSPortable](https://github.com/TheTaylorLee/PSPortable) repository. This presents a portable PowerShell 7 package with multiple included modules. It can be downloaded using a single command and used right away. The idea behind this is you can maintain the same PowerShell environment across many servers with change tracking.
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
