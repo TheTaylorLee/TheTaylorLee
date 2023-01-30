@@ -25,3 +25,19 @@ https://github.com/anuraghazra/github-readme-stats
 
 ### Docker-TranscodeAutomation
 This is a container image that provides a fully automated workflow for transcoding media. It uses ffmpeg, allows for some customizations, and provides statistics that can be presented in a dashboard like grafana.
+
+<div>
+  <p align="Left">
+    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/docker-transcodeautomation/.github/workflows/development.yml?branch=master">
+      <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/docker-transcodeautomation/development.yml?branch=master&label=Dev%20Workflow&logo=Github">
+    </a>
+    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/docker-transcodeautomation/.github/workflows/production.yml?branch=master">
+      <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/docker-transcodeautomation/production.yml?branch=master&label=Prod%20Workflow&logo=Github">
+    </a>
+    <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/issues?q=is%3Aopen+is%3Aissue">
+      <img src ="https://img.shields.io/github/issues-raw/thetaylorlee/docker-transcodeautomation">
+    </a>
+    <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/blob/master/LICENSE">
+	    <img src="https://img.shields.io/github/license/thetaylorlee/docker-transcodeautomation">
+	  </a>
+</div>
