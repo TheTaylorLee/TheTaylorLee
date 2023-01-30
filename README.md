@@ -22,3 +22,6 @@ I have bundled PowerShell packages in the [PSPortable](https://github.com/TheTay
 <!--
 https://github.com/anuraghazra/github-readme-stats
 -->
+
+### Docker-TranscodeAutomation
+This is a container image that provides a fully automated workflow for transcoding media. It uses ffmpeg, allows for some customizations, and provides statistics that can be presented in a dashboard like grafana.
