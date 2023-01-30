@@ -37,7 +37,4 @@ This is a container image that provides a fully automated workflow for transcodi
     <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/issues?q=is%3Aopen+is%3Aissue">
       <img src ="https://img.shields.io/github/issues-raw/thetaylorlee/docker-transcodeautomation">
     </a>
-    <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/blob/master/LICENSE">
-	    <img src="https://img.shields.io/github/license/thetaylorlee/docker-transcodeautomation">
-	  </a>
 </div>
