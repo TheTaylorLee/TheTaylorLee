@@ -1,5 +1,5 @@
 # TheTaylorLee
-**I have worked in multiple roles supporting business IT infrastructures. During my time filling these roles, PowerShell has been my language of choice for efficiency and effectiveness.**
+**I have worked in multiple roles supporting business IT infrastructures. These collection of repositories are tools that I have created and can be shared publicly.**
 
 [![TheTaylorLee's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thetaylorlee&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&disable_animations=false&include_all_commits=true)](https://github.com/thetaylorlee)
 
