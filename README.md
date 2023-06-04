@@ -38,8 +38,11 @@ This is a container image that provides a fully automated workflow for transcodi
 
 <div>
   <p align="Left">
-    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/docker-transcodeautomation/.github/workflows/prod-amd64.yml?branch=master">
-      <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/docker-transcodeautomation/prod-amd64.yml?branch=master&label=Prod%20Workflow&logo=Github">
+    <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/actions/workflows/prod-alpine-amd64.yml">
+      <img src="https://github.com/TheTaylorLee/docker-transcodeautomation/actions/workflows/prod-alpine-amd64.yml/badge.svg">
+    </a>
+    <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/actions/workflows/prod-ubuntu-amd64.yml">
+      <img src="https://github.com/TheTaylorLee/docker-transcodeautomation/actions/workflows/prod-ubuntu-amd64.yml/badge.svg">
     </a>
     <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/issues?q=is%3Aopen+is%3Aissue">
       <img src ="https://img.shields.io/github/issues-raw/thetaylorlee/docker-transcodeautomation">
