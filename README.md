@@ -1,6 +1,8 @@
 # TheTaylorLee
 **I have worked in multiple roles supporting business IT infrastructures. These collection of repositories are tools that I have created and can be shared publicly.**
 
+[![TheTaylorLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetaylorlee&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&disable_animations=false&include_all_commits=true)](https://github.com/thetaylorlee)
+
 ### AdminToolbox
 The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of PowerShell modules for my publicly shared functions and tools. The following modules are included.
 ```
