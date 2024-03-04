@@ -4,7 +4,7 @@
 [![TheTaylorLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetaylorlee&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&disable_animations=false&include_all_commits=true)](https://github.com/thetaylorlee)
 
 ### AdminToolbox
-The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of PowerShell modules for my publicly shared functions and tools. The following modules are included.
+The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a collection of PowerShell modules and tools. The following modules are included.
 ```
 - ActiveDirectory   - EndpointManagement  - Exchange         - FFTools 
 - FileManagement    - FortiWizard         - Fun              - Networking
