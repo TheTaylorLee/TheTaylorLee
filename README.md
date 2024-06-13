@@ -21,9 +21,6 @@ The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a
     <a href="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/.github/workflows/PSScriptAnalyzer.yml?branch=master">
         <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/AdminToolbox/PSScriptAnalyzer.yml?branch=master&label=PSScriptAnalyzer&logo=Github">
     </a>
-    <a href="https://github.com/TheTaylorLee/AdminToolbox/issues?q=is%3Aopen+is%3Aissue">
-        <img src ="https://img.shields.io/github/issues-raw/thetaylorlee/admintoolbox">
-    </a>
 </p>
 
 ### PSPortable
@@ -41,10 +38,7 @@ This is a container image that provides a fully automated workflow for transcodi
     <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/actions/workflows/prod-alpine-amd64.yml">
       <img src="https://github.com/TheTaylorLee/docker-transcodeautomation/actions/workflows/prod-alpine-amd64.yml/badge.svg">
     </a>
-    <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/issues?q=is%3Aopen+is%3Aissue">
-      <img src ="https://img.shields.io/github/issues-raw/thetaylorlee/docker-transcodeautomation">
-    </a>
     <a href="https://github.com/TheTaylorLee/docker-transcodeautomation/blob/master/LICENSE">
 	    <img src="https://img.shields.io/github/license/thetaylorlee/docker-transcodeautomation">
-	  </a>
+    </a>
 </div>
