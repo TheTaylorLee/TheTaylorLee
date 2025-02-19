@@ -12,14 +12,14 @@ The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a
 ```
 
 <p align="Left">
-    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/.github/workflows/PS_Gallery_Pipeline.yml?branch=master">
-        <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/AdminToolbox/PS_Gallery_Pipeline.yml?branch=master&label=PSGallery%20Publsh&logo=Github">
+    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/.github/workflows/PS_Gallery_Pipeline.yml?branch=main">
+        <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/AdminToolbox/PS_Gallery_Pipeline.yml?branch=main&label=PSGallery%20Publsh&logo=Github">
     </a>
-    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/.github/workflows/Version_Bump.yml?branch=master">
-        <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/AdminToolbox/Version_Bump.yml?branch=master&label=Version%20Bump&logo=Github">
+    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/.github/workflows/Version_Bump.yml?branch=main">
+        <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/AdminToolbox/Version_Bump.yml?branch=main&label=Version%20Bump&logo=Github">
     </a>
-    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/.github/workflows/PSScriptAnalyzer.yml?branch=master">
-        <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/AdminToolbox/PSScriptAnalyzer.yml?branch=master&label=PSScriptAnalyzer&logo=Github">
+    <a href="https://img.shields.io/github/workflow/status/thetaylorlee/admintoolbox/.github/workflows/PSScriptAnalyzer.yml?branch=main">
+        <img src="https://img.shields.io/github/actions/workflow/status/TheTaylorLee/AdminToolbox/PSScriptAnalyzer.yml?branch=main&label=PSScriptAnalyzer&logo=Github">
     </a>
 </p>
 
