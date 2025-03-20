@@ -6,7 +6,8 @@ The [Admintoolbox](https://github.com/TheTaylorLee/AdminToolbox) repository is a
 ```
 - ActiveDirectory   - EndpointManagement  - Exchange         - FFTools 
 - FileManagement    - FortiWizard         - Fun              - Networking
-- MSGraph           - Office365           - Remoting         - VmwareAutomate
+- MSGraph           - Office365           - Remoting         -SecOps
+- VmwareAutomate
 ```
 
 <p align="Left">
